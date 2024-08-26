@@ -1,0 +1,324 @@
+[
+    {
+        "name": "George Washington",
+        "birth year": "1732",
+        "death year": "1799",
+        "picture source": "https://en.wikipedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_George_Washington"
+    },
+    {
+        "name": "John Adams",
+        "birth year": "1735",
+        "death year": "1826",
+        "picture source": "https://en.wikipedia.org/wiki/File:John_Adams_A18236.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_John_Adams"
+    },
+    {
+        "name": "Thomas Jefferson",
+        "birth year": "1743",
+        "death year": "1826",
+        "picture source": "https://en.wikipedia.org/wiki/File:Thomas_Jefferson_by_Rembrandt_Peale,_1800.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Thomas_Jefferson"
+    },
+    {
+        "name": "James Madison",
+        "birth year": "1751",
+        "death year": "1836",
+        "picture source": "https://en.wikipedia.org/wiki/File:James_Madison.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_James_Madison"
+    },
+    {
+        "name": "James Monroe",
+        "birth year": "1758",
+        "death year": "1831",
+        "picture source": "https://en.wikipedia.org/wiki/File:James_Monroe_White_House_portrait_1819.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_James_Monroe"
+    },
+    {
+        "name": "John Quincy Adams",
+        "birth year": "1767",
+        "death year": "1848",
+        "picture source": "https://en.wikipedia.org/wiki/File:JQA_Photo_Crop.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_John_Quincy_Adams"
+    },
+    {
+        "name": "Andrew Jackson",
+        "birth year": "1767",
+        "death year": "1845",
+        "picture source": "https://en.wikipedia.org/wiki/File:Andrew_jackson_head.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Andrew_Jackson"
+    },
+    {
+        "name": "Martin Van Buren",
+        "birth year": "1782",
+        "death year": "1862",
+        "picture source": "https://en.wikipedia.org/wiki/File:Martin_Van_Buren.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Martin_Van_Buren"
+    },
+    {
+        "name": "William Henry Harrison",
+        "birth year": "1773",
+        "death year": "1841",
+        "picture source": "https://en.wikipedia.org/wiki/File:William_Henry_Harrison_by_James_Reid_Lambdin,_1835_crop.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_William_Henry_Harrison"
+    },
+    {
+        "name": "John Tyler",
+        "birth year": "1790",
+        "death year": "1862",
+        "picture source": "https://en.wikipedia.org/wiki/File:John_Tyler_(cropped_3x4)_(cropped)(2).png",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_John_Tyler"
+    },
+    {
+        "name": "James K. Polk",
+        "birth year": "1795",
+        "death year": "1849",
+        "picture source": "https://en.wikipedia.org/wiki/File:Polk_crop.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_James_K._Polk"
+    },
+    {
+        "name": "Zachary Taylor",
+        "birth year": "1784",
+        "death year": "1850",
+        "picture source": "https://en.wikipedia.org/wiki/File:Zachary_Taylor_restored_and_cropped.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Zachary_Taylor"
+    },
+    {
+        "name": "Millard Fillmore",
+        "birth year": "1800",
+        "death year": "1874",
+        "picture source": "https://en.wikipedia.org/wiki/File:Fillmore.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Millard_Fillmore"
+    },
+    {
+        "name": "Franklin Pierce",
+        "birth year": "1804",
+        "death year": "1869",
+        "picture source": "https://en.wikipedia.org/wiki/File:Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_(cropped)(b)(3).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Franklin_Pierce"
+    },
+    {
+        "name": "James Buchanan",
+        "birth year": "1791",
+        "death year": "1868",
+        "picture source": "https://en.wikipedia.org/wiki/File:James_Buchanan.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_James_Buchanan"
+    },
+    {
+        "name": "Abraham Lincoln",
+        "birth year": "1809",
+        "death year": "1865",
+        "picture source": "https://en.wikipedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Abraham_Lincoln"
+    },
+    {
+        "name": "Andrew Johnson",
+        "birth year": "1808",
+        "death year": "1875",
+        "picture source": "https://en.wikipedia.org/wiki/File:Andrew_Johnson_photo_portrait_head_and_shoulders,_c1870-1880-Edit1.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Andrew_Johnson"
+    },
+    {
+        "name": "Ulysses S. Grant",
+        "birth year": "1822",
+        "death year": "1885",
+        "picture source": "https://en.wikipedia.org/wiki/File:Ulysses_S_Grant_by_Brady_c1870-restored.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Ulysses_S._Grant"
+    },
+    {
+        "name": "Rutherford B. Hayes",
+        "birth year": "1822",
+        "death year": "1893",
+        "picture source": "https://en.wikipedia.org/wiki/File:President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Rutherford_B._Hayes"
+    },
+    {
+        "name": "James A. Garfield",
+        "birth year": "1831",
+        "death year": "1881",
+        "picture source": "https://en.wikipedia.org/wiki/File:James_Abram_Garfield,_photo_portrait_seated.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_James_A._Garfield"
+    },
+    {
+        "name": "Chester A. Arthur",
+        "birth year": "1829",
+        "death year": "1886",
+        "picture source": "https://en.wikipedia.org/wiki/File:Chester_A._Arthur_by_Abraham_Bogardus_(cropped).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Chester_A._Arthur"
+    },
+    {
+        "name": "Grover Cleveland",
+        "birth year": "1837",
+        "death year": "1908",
+        "picture source": "https://en.wikipedia.org/wiki/File:StephenGroverCleveland.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidencies_of_Grover_Cleveland"
+    },
+    {
+        "name": "Benjamin Harrison",
+        "birth year": "1833",
+        "death year": "1901",
+        "picture source": "https://en.wikipedia.org/wiki/File:Benjamin_Harrison,_head_and_shoulders_bw_photo,_1896.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Benjamin_Harrison"
+    },
+    {
+        "name": "Grover Cleveland",
+        "birth year": "1837",
+        "death year": "1908",
+        "picture source": "https://en.wikipedia.org/wiki/File:StephenGroverCleveland.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidencies_of_Grover_Cleveland"
+    },
+    {
+        "name": "William McKinley",
+        "birth year": "1843",
+        "death year": "1901",
+        "picture source": "https://en.wikipedia.org/wiki/File:Mckinley.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_William_McKinley"
+    },
+    {
+        "name": "Theodore Roosevelt",
+        "birth year": "1858",
+        "death year": "1919",
+        "picture source": "https://en.wikipedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Theodore_Roosevelt"
+    },
+    {
+        "name": "William Howard Taft",
+        "birth year": "1857",
+        "death year": "1930",
+        "picture source": "https://en.wikipedia.org/wiki/File:Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_William_Howard_Taft"
+    },
+    {
+        "name": "Woodrow Wilson",
+        "birth year": "1856",
+        "death year": "1924",
+        "picture source": "https://en.wikipedia.org/wiki/File:Thomas_Woodrow_Wilson,_Harris_%26_Ewing_bw_photo_portrait,_1919_-_black_and_white_(cropped).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Woodrow_Wilson"
+    },
+    {
+        "name": "Warren G. Harding",
+        "birth year": "1865",
+        "death year": "1923",
+        "picture source": "https://en.wikipedia.org/wiki/File:Warren_G_Harding-Harris_%26_Ewing.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Warren_G._Harding"
+    },
+    {
+        "name": "Calvin Coolidge",
+        "birth year": "1872",
+        "death year": "1933",
+        "picture source": "https://en.wikipedia.org/wiki/File:Calvin_Coolidge_cph.3g10777_(cropped).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Calvin_Coolidge"
+    },
+    {
+        "name": "Herbert Hoover",
+        "birth year": "1874",
+        "death year": "1964",
+        "picture source": "https://en.wikipedia.org/wiki/File:President_Hoover_portrait.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Herbert_Hoover"
+    },
+    {
+        "name": "Franklin D. Roosevelt",
+        "birth year": "1882",
+        "death year": "1945",
+        "picture source": "https://en.wikipedia.org/wiki/File:FDR-1944-Campaign-Portrait_(cropped).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Franklin_D._Roosevelt"
+    },
+    {
+        "name": "Harry S. Truman",
+        "birth year": "1884",
+        "death year": "1972",
+        "picture source": "https://en.wikipedia.org/wiki/File:TRUMAN_58-766-06_(cropped).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Harry_S._Truman"
+    },
+    {
+        "name": "Dwight D. Eisenhower",
+        "birth year": "1890",
+        "death year": "1969",
+        "picture source": "https://en.wikipedia.org/wiki/File:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959_(cropped)(3).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Dwight_D._Eisenhower"
+    },
+    {
+        "name": "John F. Kennedy",
+        "birth year": "1917",
+        "death year": "1963",
+        "picture source": "https://en.wikipedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_John_F._Kennedy"
+    },
+    {
+        "name": "Lyndon B. Johnson",
+        "birth year": "1908",
+        "death year": "1973",
+        "picture source": "https://en.wikipedia.org/wiki/File:37_Lyndon_Johnson_3x4.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Lyndon_B._Johnson"
+    },
+    {
+        "name": "Richard Nixon",
+        "birth year": "1913",
+        "death year": "1994",
+        "picture source": "https://en.wikipedia.org/wiki/File:Richard_Nixon_presidential_portrait_(1).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Richard_Nixon"
+    },
+    {
+        "name": "Gerald Ford",
+        "birth year": "1913",
+        "death year": "2006",
+        "picture source": "https://en.wikipedia.org/wiki/File:Gerald_Ford_presidential_portrait_(cropped_3).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Gerald_Ford"
+    },
+    {
+        "name": "Jimmy Carter",
+        "birth year": "1924",
+        "death year": "n/a",
+        "picture source": "https://en.wikipedia.org/wiki/File:JimmyCarterPortrait2.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Jimmy_Carter"
+    },
+    {
+        "name": "Ronald Reagan",
+        "birth year": "1911",
+        "death year": "2004",
+        "picture source": "https://en.wikipedia.org/wiki/File:Official_Portrait_of_President_Reagan_1981.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Ronald_Reagan"
+    },
+    {
+        "name": "George H. W. Bush",
+        "birth year": "1924",
+        "death year": "2018",
+        "picture source": "https://en.wikipedia.org/wiki/File:George_H._W._Bush_presidential_portrait_(cropped).jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_George_H._W._Bush"
+    },
+    {
+        "name": "Bill Clinton",
+        "birth year": "1946",
+        "death year": "n/a",
+        "picture source": "https://en.wikipedia.org/wiki/File:Bill_Clinton.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Bill_Clinton"
+    },
+    {
+        "name": "George W. Bush",
+        "birth year": "1946",
+        "death year": "n/a",
+        "picture source": "https://en.wikipedia.org/wiki/File:George-W-Bush.jpeg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_George_W._Bush"
+    },
+    {
+        "name": "Barack Obama",
+        "birth year": "1961",
+        "death year": "n/a",
+        "picture source": "https://en.wikipedia.org/wiki/File:President_Barack_Obama_(cropped)_4.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Barack_Obama"
+    },
+    {
+        "name": "Donald Trump",
+        "birth year": "1946",
+        "death year": "n/a",
+        "picture source": "https://en.wikipedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Donald_Trump"
+    },
+    {
+        "name": "Joe Biden",
+        "birth year": "1942",
+        "death year": "n/a",
+        "picture source": "https://en.wikipedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg",
+        "information source": "https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden"
+    }
+]

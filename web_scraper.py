@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 url = 'https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States'
 
-president_dc = {}
+president_ls = []
 website = requests.get(url)
 soup = BeautifulSoup(website.content, 'html.parser')
 #print(soup)
@@ -19,8 +19,8 @@ president_table.pop(0)
 #print(president_table[0].find_all('a')[1]['href'])
 
 for president in president_table:
-    link_info = url[:26] + president.find_all('a')[0]['href']
-    link_picture = url[:26] + president.find_all('a')[1]['href']
+    link_info = url[:24] + president.find_all('a')[0]['href']
+    link_picture = url[:24] + president.find_all('a')[1]['href']
     name = president.find_all('td')[1].text
     birth_year = ''
     death_year = ''
@@ -48,7 +48,12 @@ for president in president_table:
     # print('end')
     if name[-2:] == '(b':
         name = name[:-2]
-    print(name)
-    print(birth_year)
-    print(death_year)
-    print(party)
+    
+    dc = {'name' : name, 'birth year': birth_year, 'death year': death_year,
+          'picture source': link_picture, 'information source': link_info}
+    president_ls.append(dc)
+    
+with open('output.json', 'w') as k:
+    json.dump(president_ls, k, indent=4, ensure_ascii=False)
+
+print('created json file')
